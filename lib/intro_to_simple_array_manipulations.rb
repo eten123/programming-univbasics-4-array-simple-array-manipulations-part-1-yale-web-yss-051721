@@ -24,7 +24,6 @@ def using_shift(array)
 end
 
 def shift_with_args(array)
-  array = ["Blue Bell Creameries", "Ben & Jerry's", "3"]
-  new_array = array.shift(2)
+array.shift(2)
 end
   
